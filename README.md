@@ -1,3 +1,3 @@
 # java_coursework
 
-Berisi pecahan pecahan kode java saat belajar di kuliah dan course online
+Bersis potongan potongan kode yang saya buat saat mempelajari bahasa pemrograman java baik dari matakuliah di kampus maupun online course
